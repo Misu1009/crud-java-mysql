@@ -8,7 +8,7 @@ public class repository {
 
     private static final String JDBC_Driver = "com.mysql.jdbc.Driver";
     private static final String Db_Url = "jdbc:mysql://localhost/library";
-    private static final String User = "root";
+    private static final String User = "";
     private static final String Pass = "";
 
     private static Connection conn;
